@@ -1,1 +1,9 @@
 
+git --version
+git init                                            ---> Initialized empty Git repository , it creates a .git folder
+
+
+git config --global user.name "jadhavsunilv"                  ----> to set user name
+git config --global user.email "jadhavsunilv@gmail.com"       ----> to set user email
+
+ls -a 
